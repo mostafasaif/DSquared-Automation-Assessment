@@ -1,2 +1,2 @@
-# DSquared-Automation-Assessment
-This project is part from DSquared hiring process
+# Dsquares-Automation-Assessment
+This project is part of the Dsquares hiring process
